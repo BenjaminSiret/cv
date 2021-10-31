@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Playfair Display', serif ;
+  color: #40514E;
+
+}
+
+h1 {
+  color:  #66BFBF;
+  font-family: 'Allura', cursive;
+  font-size: 80px;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color:  #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  margin-top: 90px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #DDDDDD;
+  border-width: 5px;
+  width: 5%;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 550px;
+  top: 50px;
+}
+
+.span-underline {
+  text-decoration: underline;
+}
+
+.citation-italic {
+  font-style: italic;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 80px auto 160px auto;
+  text-align: left;
+
+}
+
+.python-image {
+  float: left;
+  margin-right: 30px;
+  width: 20%;
+}
+
+.design-image {
+  float: right;
+  margin-left: 30px;
+  width: 20%;
+}
+
+.profile {
+  margin-top: 70px;
+  width: 40%;
+  margin: 100px auto;
+
+}
+
+.profile p {
+  text-align: left;
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+.contact-me {
+  margin: 100px auto 70px auto;
+}
+
+.btn {
+  border-radius: 8px;
+  color: white;
+  background-color: #66BFBF;
+  padding: 12px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 30px;
+  transition: 0.3s;
+
+}
+
+.btn:hover {
+  background-color: #11999E;
+  opacity: 1;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 38px 0 20px;
+
+}
+
+.footer-link {
+  margin: 0 40px 0 40px;
+  text-decoration: none;
+}
+
+#rounded-photo {
+  border-radius: 50%;
+  height: 230px;
+}
+
+#copyright {
+  color: white;
+  margin: 34px auto 0;
+  font-size: 0.8rem;
+}
+
+
